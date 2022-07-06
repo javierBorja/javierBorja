@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Javier, a software developer or trying to become one where I feel confortable with myself
+
 <!--
 **javierBorja/javierBorja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
